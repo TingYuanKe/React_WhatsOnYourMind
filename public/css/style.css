@@ -1,0 +1,33 @@
+
+body, #myCarousel, #myThumbnail {
+   background: #334455;
+  text-align: center;
+}
+.tit{
+  color: white;
+}
+body .container-fluid{
+     background: #D1E2FF;
+}
+
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+img{
+  width: 100%;
+}
+
+
+
+
+  /* --------------------------------------
+     Footer
+     -------------------------------------- */
+
+  footer {
+    background: #333;
+    color: #132E79;
+    font-size: 1px;
+    padding:10px;
+  }
+
